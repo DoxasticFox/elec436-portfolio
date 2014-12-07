@@ -1,0 +1,105 @@
+\begin{thebibliography}{10}
+
+\bibitem{Dean:2008:MSD:1327452.1327492}
+Jeffrey Dean and Sanjay Ghemawat.
+\newblock Mapreduce: Simplified data processing on large clusters.
+\newblock {\em Commun. ACM}, 51(1):107--113, January 2008.
+
+\bibitem{http-rfc}
+R.~Fielding, J.~Gettys, J.~Mogul, H.~Frystyk, L.~Masinter, P.~Leach, and
+  T.~Berners-Lee.
+\newblock {RFC 2616, Hypertext Transfer Protocol -- HTTP/1.1}.
+\newblock \url{http://www.ietf.org/rfc/rfc2616.txt}, 1999.
+
+\bibitem{ports}
+J.~Reynolds and J.~Postel.
+\newblock {RFC 1700, Assigned Numbers}.
+\newblock \url{http://www.ietf.org/rfc/rfc1700.txt}, 1999.
+
+\bibitem{tcpip-tute}
+T.~Socolofsky and C.~Kale.
+\newblock {RFC 1180, A TCP/IP Tutorial}.
+\newblock \url{http://www.ietf.org/rfc/rfc1180.txt}, 1991.
+
+\bibitem{tcp}
+Information~Sciences Institute.
+\newblock {RFC 793, Transmission Control Protocol}.
+\newblock \url{http://www.ietf.org/rfc/rfc793.txt}, 1981.
+
+\bibitem{ip}
+Information~Sciences Institute.
+\newblock {RFC 791, Internet Protocol}.
+\newblock \url{http://www.ietf.org/rfc/rfc791.txt}, 1981.
+
+\bibitem{dscp}
+K.~Nichols, Cisco Systems, S.~Blake, Torren~Networking Technologies, F.~Backer,
+  and EMC Corporation.
+\newblock {RFC 2474, Definition of the Differentiated Services Field (DS Field)
+  in the IPv4 and IPv6 Headers}.
+\newblock \url{http://www.ietf.org/rfc/rfc2474.txt}, 1998.
+
+\bibitem{ecn}
+K.~Ramakrishnan, TeraOptic Networks, S.~Floyd, ACIRI, and D.~EMC Black.
+\newblock {RFC 3168, The Addition of Explicit Congestion Notification (ECN) to
+  IP}.
+\newblock \url{http://www.ietf.org/rfc/rfc3168.txt}, 2001.
+
+\bibitem{nameaddress}
+J.~Shoch.
+\newblock {Inter-Network Naming, Addressing, and Routing}, 1978.
+
+\bibitem{arp}
+D.~Plummer.
+\newblock {RFC 826, An Ethernet Address Resolution Protocol}.
+\newblock \url{http://www.ietf.org/rfc/rfc826.txt}, 1982.
+
+\bibitem{Bachman:1969:DSD:1017466.1017467}
+Charles~W. Bachman.
+\newblock Data structure diagrams.
+\newblock {\em SIGMIS Database}, 1(2):4--10, July 1969.
+
+\bibitem{Barker:1990:CME:533447}
+Richard Barker.
+\newblock {\em Case Method: Entity Relationship Modelling}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 1st
+  edition, 1990.
+
+\bibitem{Johnson:2001:VUS:545538.545541}
+Michael Johnson, Robert Rosebrugh, and C.~N.~G. Dampney.
+\newblock View updates in a semantic data modelling paradigm.
+\newblock In {\em Proceedings of the 12th Australasian Database Conference},
+  ADC '01, pages 29--36, Washington, DC, USA, 2001. IEEE Computer Society.
+
+\bibitem{news4}
+Fran Foo.
+\newblock Primary students learn to program.
+\newblock
+  \url{http://www.theaustralian.com.au/technology/primary-students-learn-to-program/story-e6frgakx-1226863685973},
+  2014.
+\newblock [Online; accessed 25-March-2014].
+
+\bibitem{news5}
+Sylvia Pennington.
+\newblock Public sector technology jobs take a dive.
+\newblock
+  \url{http://www.smh.com.au/it-pro/government-it/public-sector-technology-jobs-take-a-dive-20140402-zqpee.html},
+  2014.
+\newblock [Online; accessed 1-April-2014].
+
+\bibitem{news7}
+Steve Slater.
+\newblock Cost of cyber attacks on british companies rises.
+\newblock
+  \url{http://uk.reuters.com/article/2014/04/28/uk-cybercrime-britain-survey-idUKKBN0DE21120140428},
+  2014.
+\newblock [Online; accessed 29-April-2014].
+
+\bibitem{news11}
+Loek Essers.
+\newblock Software bug disrupts e-vote count in belgian election.
+\newblock
+  \url{http://www.pcworld.com/article/2159260/software-bug-disrupts-evote-count-in-belgian-election.html},
+  2014.
+\newblock [Online; accessed 26-May-2014].
+
+\end{thebibliography}

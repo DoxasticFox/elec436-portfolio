@@ -1,0 +1,47 @@
+\contentsline {chapter}{\numberline {1}Distributed Computing}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Setting Up}{4}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Lab 1}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Overview}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Some Definitions}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Part I}{5}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Part II}{6}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Part III}{7}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}Lab 2}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Overview}{8}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}A Definition}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Part A}{8}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Part B}{9}{subsection.1.3.4}
+\contentsline {chapter}{\numberline {2}Networking}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}How to Use This Chapter}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Exploring Firefox's Developer Tools}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}What is ``Underneath'' HTTP? (The TCP Section)}{16}{section.2.3}
+\contentsline {section}{\numberline {2.4}Internet Protocol}{22}{section.2.4}
+\contentsline {section}{\numberline {2.5}Address Resolution Protocol}{25}{section.2.5}
+\contentsline {section}{\numberline {2.6}Ethernet}{26}{section.2.6}
+\contentsline {section}{\numberline {2.7}Conclusion and Future Work}{27}{section.2.7}
+\contentsline {chapter}{\numberline {3}Databases}{28}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}
+\contentsline {section}{\numberline {3.2}ER Modelling}{28}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}A Mathematical Approach}{28}{subsection.3.2.1}
+\contentsline {subsubsection}{Functions}{28}{section*.13}
+\contentsline {subsubsection}{Databases as Graphs}{29}{section*.14}
+\contentsline {subsection}{\numberline {3.2.2}Example: A File Sharing Website}{30}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Relational Databases}{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Tables}{31}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}SQL}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Example: The File Sharing Website Revisited}{32}{subsection.3.3.3}
+\contentsline {subsubsection}{Some Queries on The Database}{33}{section*.18}
+\contentsline {subsection}{\numberline {3.3.4}Caveats with Multiple Concurrent Users}{35}{subsection.3.3.4}
+\contentsline {chapter}{\numberline {4}Operating Systems}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}A Buffer Overflow Attack}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Some Preliminaries}{36}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}The Attack}{37}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}This Week in The News}{40}{chapter.5}
+\contentsline {section}{\numberline {5.1}Primary Students Learn to Program}{40}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Comments}{40}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}UK Report Finds Cost of Data Breaches Doubled}{41}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Comments}{41}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Software Bug Disrupts E-vote Count in Belgian Election}{42}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Comments}{42}{subsection.5.3.1}
